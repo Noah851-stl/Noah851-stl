@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shin 👋
 
-<!--
-**Noah851-stl/Noah851-stl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps Engineer learning Linux and AWS through hands-on projects.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Linux
+- AWS
+- Networking
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- DHCP & DNS Home Lab → [link]
+- EC2 Web Server → [link]
+
+## 📫 Contact
+- LinkedIn: your link
