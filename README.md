@@ -10,7 +10,6 @@ Aspiring DevOps Engineer learning Linux and AWS through hands-on projects.
 
 ## 🚀 Projects
 - DHCP & DNS Home Lab → [link]
-- EC2 Web Server → [link]
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/shin-thant-lwin-7a1848341
